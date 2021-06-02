@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @reallybadchess
 - 👀 I’m interested in data, blockchain and cryptocurrency.
 - 🌱 I’m currently learning IBM Data Science Professional Certificate
-- 💞️ I’m looking to collaborate on pretty much anything that will help me solidify the skills I'm developing
+- 💞️ I’m looking to collaborate on pretty much anything that will help me solidify the skills I'm developing.
 
 
 <!---
