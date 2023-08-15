@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raphael 
 - 👀 I’m interested in Python programming and SQL database management.
-- 🌱 I’m currently learning Data Analyst with SQL Server on DataCamp 
+- 🌱 I’m currently a Data Solutions Engineer at Axon
 - 💞️ I’m looking to collaborate on pretty much anything that will help me solidify the skills I'm developing.
 
 
